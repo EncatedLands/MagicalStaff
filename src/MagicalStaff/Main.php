@@ -2,7 +2,7 @@
 
 namespace MagicalStaff;
 
-//main stuffs
+//main things
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\Server;
